@@ -16,11 +16,11 @@
 	• Foram feitos testes unitários com diversos cenários para dar confiabilidade a lógica implementada.
 
 ## Questão 2
-	• 2) Escreva um programa que verifique, em uma string, a existência da letra ‘a’, seja maiúscula ou minúscula, 
- 	além de informar a quantidade de vezes em que ela ocorre.
+	• 2) Escreva um programa que verifique, em uma string, a existência da letra ‘a’, seja maiúscula 
+ 	ou minúscula, além de informar a quantidade de vezes em que ela ocorre.
 
-	• IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no
- 	código;
+	• IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua preferência ou 
+ 	pode ser previamente definida no código;
 ***Solução:***
 
 	• A resolução para essa questão se encontra no projeto ContadorDeLetras. 
@@ -40,7 +40,8 @@
 	• Ao final do processamento, qual será o valor da variável SOMA?
 ***Solução:***
 	
-	• Realizando um total de 11 execuções e fazendo a seguinte soma: (2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12) 
+	• Realizando um total de 11 execuções e fazendo a seguinte soma: 
+ 		(2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12) 
 	• Ao final do processamento o valor da variável SOMA será: 77
 
 ## Questão 4
