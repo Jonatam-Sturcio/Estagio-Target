@@ -66,7 +66,7 @@
  	diferentes. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os 
   	interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual 
    	lâmpada. Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, 
-    	qual interruptor controla cada lâmpada?  
+    qual interruptor controla cada lâmpada?  
 ***Solução:***
 	
 	• Ligue o interruptor 1 e deixe-o ligado por um tempo
